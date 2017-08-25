@@ -1,3 +1,7 @@
+# Copyright 2017, Juniper Networks Pvt Ltd.
+# All rights reserved.
+#
+
 from jnpr.junos import Device
 from jnpr.junos.utils.config import Config
 
