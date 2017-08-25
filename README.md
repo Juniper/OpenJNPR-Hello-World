@@ -10,7 +10,7 @@ These are the languages or tools which can currently be found in this repository
 
 These are additional examples which should be added:
 - [PHP](https://github.com/Juniper/netconf-php)
-- JavaScript
+- [Java](https://github.com/Juniper/netconf-java)
 - [Ruby](https://github.com/Juniper/net-netconf)
 - [Go](https://github.com/Juniper/go-netconf)
 - Saltstack
