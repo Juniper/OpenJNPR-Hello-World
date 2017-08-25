@@ -13,7 +13,7 @@ These are additional examples which should be added:
 - [Java](https://github.com/Juniper/netconf-java)
 - [Ruby](https://github.com/Juniper/net-netconf)
 - [Go](https://github.com/Juniper/go-netconf)
-- Saltstack
+- [Saltstack](https://github.com/Juniper/docker-saltstack-junos#getting-started--hello-world-with-engine)
 - [RubyEZ](https://github.com/Juniper/ruby-junos-ez-stdlib)
 
 Please help!
