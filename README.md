@@ -1,6 +1,6 @@
 print("Hello World")
 
-When we [start at the very beginning](https://www.youtube.com/watch?v=PEodUg43Zpo), we start with the Hello World Program. This repository contains the Junos OS version of that with a simple example pulling either Get Facts or the "show system information". 
+When we [start at the very beginning](https://www.youtube.com/watch?v=PEodUg43Zpo), we start with the Hello World Program. This repository contains the Junos OS version of that with a simple example pulling either Get Facts or the "show system information".
 
 These are the languages or tools which can currently be found in this repository:
 - [Ansible](https://github.com/Juniper/ansible-junos-stdlib)
@@ -16,4 +16,4 @@ These are additional examples which should be added:
 - [Saltstack](https://github.com/Juniper/docker-saltstack-junos#getting-started--hello-world-with-engine)
 - [RubyEZ](https://github.com/Juniper/ruby-junos-ez-stdlib)
 
-Please help!
+Hopefully, people see that one can use whichever tool one wants to get the same/similar infomation.  Also, looking at the different syntax of each language is kinda neat.  Hope you found this little repository informative.
