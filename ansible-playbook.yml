@@ -1,0 +1,17 @@
+---
+- name: Get device facts
+  hosts: mx
+  roles:
+  - Juniper.junos
+  connection: local
+  gather_facts: no
+
+  tasks:
+  - name: checking NETCONF connectivity
+    wait_for: host={{ inventory_hostname }} port=22 timeout=10
+
+  - name: retrieve info from devices
+    junos_get_facts: host={{ inventory_hostname }} port=22 logfile=/home/$USER/juniper.log user=username passwd=password 
+    register: junos
+  - name: version
+    debug: msg="{{ junos.facts}}"
