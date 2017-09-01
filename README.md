@@ -1,6 +1,6 @@
 print("Hello World")
 
-When we [start at the very beginning](https://www.youtube.com/watch?v=PEodUg43Zpo), we start with the Hello World Program. This repository contains the Junos OS version of that with a simple example pulling either Get Facts via an EZ library or the CLI command "show system information".
+When we [start at the very beginning](https://www.youtube.com/watch?v=PEodUg43Zpo), we start with the Hello World Program. This repository contains the Junos OS version of that with a simple example pulling either get facts via an EZ library or the CLI command "show system information".
 
 These are the languages or tools which can currently be found in this repository:
 - [Ansible](https://github.com/Juniper/ansible-junos-stdlib)
