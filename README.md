@@ -16,4 +16,4 @@ These are additional examples which should be added:
 - [Saltstack](https://github.com/Juniper/docker-saltstack-junos#getting-started--hello-world-with-engine)
 - [RubyEZ](https://github.com/Juniper/ruby-junos-ez-stdlib)
 
-Hopefully, people see that one can use whichever tool one wants to get the same/similar infomation.  Also, looking at the different syntax of each language is kinda neat.  Hope you found this little repository informative.
+Hopefully, people see that one can use whichever tool one wants to get the same/similar infomation.  Also, looking at the different syntax of each language is interesting. 
