@@ -7,7 +7,8 @@ ns jcs = "http://xml.juniper.net/junos/commit-scripts/1.0";
 import "../import/junos.xsl";
 
 match / {
-<event-script-results> {
-   <output> jcs:printf("Hello World");
+<op-script-results> {
+    var $int = jcs:invoke( "get-system-information" );
+    <output> $int;
    }
 }
