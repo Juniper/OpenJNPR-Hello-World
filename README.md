@@ -7,7 +7,8 @@ These are the languages or tools which can currently be found in this repository
 - [Perl](https://github.com/Juniper/netconf-perl)
 - [PyEZ](https://github.com/Juniper/py-junos-eznc)
 - [Python](https://github.com/ncclient/ncclient)
-
+- [SLAX](https://www.juniper.net/documentation/us/en/software/junos/automation-scripting/topics/concept/junos-script-automation-slax-overview.html)
+  
 These are additional examples which should be added:
 - [PHP](https://github.com/Juniper/netconf-php)
 - [Java](https://github.com/Juniper/netconf-java)
